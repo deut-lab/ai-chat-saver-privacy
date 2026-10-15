@@ -4,7 +4,7 @@ Last updated: 15 October 2026.
 
 AI-Chat Saver reads the chat you choose when you click an export button. This includes the chat title, page address, messages, links and images. The export also includes the export time. Chat content may include personal information that you put in the chat.
 
-The extension saves this content to a file on your computer or copies text to your clipboard. It does not send chats or other data to the developer. It has no developer server, ads, analytics or background browsing tracker.
+The extension processes chat content on your device and saves it to a file on your computer or copies text to your clipboard. The developer does not collect, receive or store your chat content. No chats or other data are sent to the developer. It has no developer server, ads, analytics or background browsing tracker.
 
 To include images and page styles in HTML, the extension may request these files from their original sites. Image requests may use your current sign-in with those sites. Those sites receive normal browser request information under their own privacy rules.
 
